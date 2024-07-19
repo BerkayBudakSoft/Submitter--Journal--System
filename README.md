@@ -57,6 +57,5 @@ The Submitter Journal System  is built using a range of technologies to ensure a
 
 ## Conclusion
 
-The Submitter Journal System G22 provides a comprehensive solution for managing the submission, review, and publication processes of academic journals. By offering tailored interfaces for public users, authors, reviewers, and editors, the system ensures an efficient and streamlined workflow, enhancing the overall user experience and facilitating the management of journal articles.
+The Submitter Journal System  provides a comprehensive solution for managing the submission, review, and publication processes of academic journals. By offering tailored interfaces for public users, authors, reviewers, and editors, the system ensures an efficient and streamlined workflow, enhancing the overall user experience and facilitating the management of journal articles.
 
-We hope you find this system useful for managing your journal submissions. If you have any questions or feedback, please feel free to contact us.
